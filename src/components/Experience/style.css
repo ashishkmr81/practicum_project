@@ -1,0 +1,11 @@
+.experience {
+  flex-grow: 1;
+}
+
+.experience h1 {
+  margin-bottom: 20px;
+}
+
+ol {
+  align-self: center;
+}
