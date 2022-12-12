@@ -1,4 +1,4 @@
 # Ashish's portfolio
  basic portfolio using react
- visit the website @ https://ashishkmr81.github.io/
+ visit the website @ https://ashishkmr81.github.io/react_assignment/
  
